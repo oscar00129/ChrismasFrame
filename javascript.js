@@ -43,7 +43,7 @@ const app = Vue.createApp({
         // Create images
         // Create frame
         this.frame = new Image();
-        this.frame.src = '/img/frame.png';
+        this.frame.src = 'img/frame.png';
 
         this.createColors();
         this.createPositions();
