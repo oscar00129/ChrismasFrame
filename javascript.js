@@ -11,22 +11,22 @@ const app = Vue.createApp({
                 width: 46,
                 height: 60,
                 colors: {
-                    blue: { src: '/img/b_foco_blue.png' },
-                    green: { src: '/img/b_foco_green.png' },
-                    pink: { src: '/img/b_foco_pink.png' },
-                    red: { src: '/img/b_foco_red.png' },
-                    yellow: { src: '/img/b_foco_yellow.png' }
+                    blue: { src: 'img/b_foco_blue.png' },
+                    green: { src: 'img/b_foco_green.png' },
+                    pink: { src: 'img/b_foco_pink.png' },
+                    red: { src: 'img/b_foco_red.png' },
+                    yellow: { src: 'img/b_foco_yellow.png' }
                 }
             },
             small_lights: {
                 width: 29,
                 height: 45,
                 colors: {
-                    blue: { src: '/img/s_foco_blue.png' },
-                    green: { src: '/img/s_foco_green.png' },
-                    pink: { src: '/img/s_foco_pink.png' },
-                    red: { src: '/img/s_foco_red.png' },
-                    yellow: { src: '/img/s_foco_yellow.png' }
+                    blue: { src: 'img/s_foco_blue.png' },
+                    green: { src: 'img/s_foco_green.png' },
+                    pink: { src: 'img/s_foco_pink.png' },
+                    red: { src: 'img/s_foco_red.png' },
+                    yellow: { src: 'img/s_foco_yellow.png' }
                 }
             },
             lights_pos: {
